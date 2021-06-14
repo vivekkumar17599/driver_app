@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742091127946",
+    "project_id": "vehicle-booking-16c0f",
+    "storage_bucket": "vehicle-booking-16c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742091127946:android:021f300993af88bd150173",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742091127946-31jkppb2f9goshdss1nvpcbll0a7vtde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6Sv5YnKN7aAnXsO12ge2BWomWbBY1TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742091127946-31jkppb2f9goshdss1nvpcbll0a7vtde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
